@@ -1,0 +1,10 @@
+[player]
+name=MhalPardie
+level=100
+health=100
+mana=100
+gold=1
+
+[inventory]
+
+[quests]
